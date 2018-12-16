@@ -1,0 +1,18 @@
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\bin\Debug\MilitaryGUI.exe.config
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\bin\Debug\MilitaryGUI.exe
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\bin\Debug\MilitaryGUI.pdb
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\bin\Debug\tass - military.exe
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\bin\Debug\EntityFramework.dll
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\bin\Debug\tass - military.pdb
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\bin\Debug\tass - military.exe.config
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\bin\Debug\EntityFramework.xml
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\obj\Debug\MilitaryGUI.csprojAssemblyReference.cache
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\obj\Debug\MilitaryGUI.Form1.resources
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\obj\Debug\MilitaryGUI.Properties.Resources.resources
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\obj\Debug\MilitaryGUI.csproj.GenerateResource.cache
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\obj\Debug\MilitaryGUI.csproj.CoreCompileInputs.cache
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\obj\Debug\MilitaryGUI.csproj.CopyComplete
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\obj\Debug\MilitaryGUI.exe
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\obj\Debug\MilitaryGUI.pdb
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MichalOlechno\source\repos\tass - military\MilitaryGUI\bin\Debug\EntityFramework.SqlServer.xml

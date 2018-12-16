@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="alliance_with_duplicates">
+    <Key>
+      <PropertyRef Name="state_name1" />
+      <PropertyRef Name="state_name2" />
+    </Key>
+    <Property Name="state_name1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="state_name2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="military_full">
+    <Key>
+      <PropertyRef Name="Country" />
+      <PropertyRef Name="Military_budget__US__BN_" />
+      <PropertyRef Name="Main_battle_tanks" />
+      <PropertyRef Name="Aircraft_carriers" />
+      <PropertyRef Name="AWS" />
+      <PropertyRef Name="Cruisers" />
+      <PropertyRef Name="Destroyers" />
+      <PropertyRef Name="Frigates" />
+      <PropertyRef Name="Corvettes" />
+      <PropertyRef Name="Nuclear_submarines" />
+      <PropertyRef Name="Non_nuclear_Submarines" />
+      <PropertyRef Name="Military_aircraft" />
+      <PropertyRef Name="Attack_helicopters" />
+      <PropertyRef Name="Nuclear_weapons" />
+      <PropertyRef Name="Military_satellites" />
+      <PropertyRef Name="Active_military" />
+      <PropertyRef Name="Reserve_military" />
+      <PropertyRef Name="Paramilitary" />
+      <PropertyRef Name="Total" />
+      <PropertyRef Name="Per_1000_capita_total_" />
+      <PropertyRef Name="Per_1000_capita_active_" />
+    </Key>
+    <Property Name="Country" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Military_budget__US__BN_" Type="Double" Nullable="false" />
+    <Property Name="Main_battle_tanks" Type="Double" Nullable="false" />
+    <Property Name="Aircraft_carriers" Type="Double" Nullable="false" />
+    <Property Name="AWS" Type="Double" Nullable="false" />
+    <Property Name="Cruisers" Type="Double" Nullable="false" />
+    <Property Name="Destroyers" Type="Double" Nullable="false" />
+    <Property Name="Frigates" Type="Double" Nullable="false" />
+    <Property Name="Corvettes" Type="Double" Nullable="false" />
+    <Property Name="Nuclear_submarines" Type="Double" Nullable="false" />
+    <Property Name="Non_nuclear_Submarines" Type="Double" Nullable="false" />
+    <Property Name="Military_aircraft" Type="Double" Nullable="false" />
+    <Property Name="Attack_helicopters" Type="Double" Nullable="false" />
+    <Property Name="Nuclear_weapons" Type="Double" Nullable="false" />
+    <Property Name="Military_satellites" Type="Double" Nullable="false" />
+    <Property Name="Active_military" Type="Double" Nullable="false" />
+    <Property Name="Reserve_military" Type="Double" Nullable="false" />
+    <Property Name="Paramilitary" Type="Double" Nullable="false" />
+    <Property Name="Total" Type="Double" Nullable="false" />
+    <Property Name="Per_1000_capita_total_" Type="Double" Nullable="false" />
+    <Property Name="Per_1000_capita_active_" Type="Double" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="TASS_militaryEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="alliance_with_duplicates" EntityType="Self.alliance_with_duplicates" />
+    <EntitySet Name="military_full" EntityType="Self.military_full" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="TASS_militaryEntities">
+    <EntitySetMapping Name="alliance_with_duplicates">
+      <EntityTypeMapping TypeName="Model.alliance_with_duplicates">
+        <MappingFragment StoreEntitySet="alliance_with_duplicates">
+          <ScalarProperty Name="state_name1" ColumnName="state_name1" />
+          <ScalarProperty Name="state_name2" ColumnName="state_name2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="military_full">
+      <EntityTypeMapping TypeName="Model.military_full">
+        <MappingFragment StoreEntitySet="military_full">
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="Military_budget__US__BN_" ColumnName="Military_budget__US__BN_" />
+          <ScalarProperty Name="Main_battle_tanks" ColumnName="Main_battle_tanks" />
+          <ScalarProperty Name="Aircraft_carriers" ColumnName="Aircraft_carriers" />
+          <ScalarProperty Name="AWS" ColumnName="AWS" />
+          <ScalarProperty Name="Cruisers" ColumnName="Cruisers" />
+          <ScalarProperty Name="Destroyers" ColumnName="Destroyers" />
+          <ScalarProperty Name="Frigates" ColumnName="Frigates" />
+          <ScalarProperty Name="Corvettes" ColumnName="Corvettes" />
+          <ScalarProperty Name="Nuclear_submarines" ColumnName="Nuclear_submarines" />
+          <ScalarProperty Name="Non_nuclear_Submarines" ColumnName="Non_nuclear_Submarines" />
+          <ScalarProperty Name="Military_aircraft" ColumnName="Military_aircraft" />
+          <ScalarProperty Name="Attack_helicopters" ColumnName="Attack_helicopters" />
+          <ScalarProperty Name="Nuclear_weapons" ColumnName="Nuclear_weapons" />
+          <ScalarProperty Name="Military_satellites" ColumnName="Military_satellites" />
+          <ScalarProperty Name="Active_military" ColumnName="Active_military" />
+          <ScalarProperty Name="Reserve_military" ColumnName="Reserve_military" />
+          <ScalarProperty Name="Paramilitary" ColumnName="Paramilitary" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Per_1000_capita_total_" ColumnName="Per_1000_capita_total_" />
+          <ScalarProperty Name="Per_1000_capita_active_" ColumnName="Per_1000_capita_active_" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

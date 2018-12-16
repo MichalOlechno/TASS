@@ -1,0 +1,12 @@
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\bin\Debug\tass - military.exe.config
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\bin\Debug\tass - military.exe
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\bin\Debug\tass - military.pdb
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\bin\Debug\EntityFramework.dll
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\bin\Debug\EntityFramework.xml
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\obj\Debug\tass - military.csprojAssemblyReference.cache
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\obj\Debug\tass - military.csproj.CoreCompileInputs.cache
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\obj\Debug\tass - military.csproj.CopyComplete
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\obj\Debug\tass - military.exe
+C:\Users\MichalOlechno\source\repos\tass - military\tass - military\obj\Debug\tass - military.pdb
